@@ -1,1 +1,1 @@
-# Terraform-EKS-Cluster-Ozone-CI
+# Terraform-EKS-Cluster
